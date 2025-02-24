@@ -9,9 +9,9 @@ profile:
   image: prof_pic.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p><i class="fa-solid fa-location-dot"></i>Zaragoza, Spain</p>
-    </br>
-    <p>Microsoft Certified</p>
+    <p><i class="fa-solid fa-location-dot"></i> Zaragoza, Spain</p>
+    <p></p>
+    <p></p>
     <table>
       <tr>
         <td><img src="/assets/img/power-platform-solutions-architect-expert-600x600.png" alt="Power Platform Solutions Architect Expert" style="width:100px;height:100px;"></td>
