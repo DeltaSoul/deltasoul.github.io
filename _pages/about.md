@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Power Platform Solutions Architect
+subtitle: Microsoft BizApps Solutions Architect
 
 profile:
   align: right
