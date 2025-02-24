@@ -12,9 +12,9 @@ profile:
     <p>Zaragoza, Spain</p>
     <table>
       <tr>
-        <td><img src="assets/img/power-platform-solutions-architect-expert-600x600.png" alt="Power Platform Solutions Architect Expert" style="width:100px;height:100px;"></td>
-        <td><img src="assets/img/power-platform-developer-600x600.png" alt="Power Platform Developer" style="width:100px;height:100px;"></td>
-        <td><img src="assets/img/power-platform-functional-consultant-600x600.png" alt="Power Platform Functional Consultant" style="width:100px;height:100px;"></td>
+        <td><img src="/assets/img/power-platform-solutions-architect-expert-600x600.png" alt="Power Platform Solutions Architect Expert" style="width:100px;height:100px;"></td>
+        <td><img src="/assets/img/power-platform-developer-600x600.png" alt="Power Platform Developer" style="width:100px;height:100px;"></td>
+        <td><img src="/assets/img/power-platform-functional-consultant-600x600.png" alt="Power Platform Functional Consultant" style="width:100px;height:100px;"></td>
       </tr>
     </table>
 
