@@ -11,7 +11,8 @@ profile:
   more_info: >
     <p><i class="fa-solid fa-location-dot"></i> Zaragoza, Spain</p>
     <br /><br />
-    <p><i class="fa-solid fa-certificate"></i> Microsoft Certified</p>
+    <p><i class="fa-solid fa-certificate"></i> Microsoft certified</p>
+    <br /><br />
     <table>
       <tr>
         <td><img src="/assets/img/power-platform-solutions-architect-expert-600x600.png" alt="Power Platform Solutions Architect Expert" style="width:100px;height:100px;"></td>
@@ -34,6 +35,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’ve spent over a decade in IT, starting on the helpdesk before transitioning into designing and developing Intelligent Process Automation solutions using Microsoft Power Platform, Microsoft 365, and SharePoint Online. As a Microsoft BizApps Solutions Architect at Inetum, I help organizations streamline operations, drive digital transformation, and meet their goals by architecting Power Platform solutions, establishing governance models, and fostering adoption by empowering communities with knowledge, best practices, and the right tools.
+Hey there! I’m Sebastian, Laura’s husband, Emilia’s dad, and dog-dad to our beloved Polar Antonio.
 
-In my free time, you’ll find me behind a camera honing my photography skills or lacing up my shoes to train for my first marathon. Welcome to my blog, where I share my insights, experiences, and love for all things tech—and of course, updates on our resident canine rock star, Polar Antonio!
+I’ve spent over a decade in IT, starting on the helpdesk before transitioning into designing and developing Intelligent Process Automation solutions using Microsoft Power Platform, Microsoft 365, and SharePoint Online.
+
+As a Microsoft BizApps Solutions Architect, I help organizations streamline operations, drive digital transformation, and meet their goals by architecting Power Platform solutions, establishing governance models, and fostering adoption by empowering communities with knowledge, best practices, and the right tools.
+
+In my free time, you’ll find me behind a camera honing my photography skills or lacing up my shoes to train for my first marathon (I'll get there with time).
+
+So, welcome to my blog, where I share my insights, experiences, and love for all things tech—and of course, updates on our resident canine rock star, Polar Antonio!
